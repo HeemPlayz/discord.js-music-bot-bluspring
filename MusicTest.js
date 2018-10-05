@@ -1,7 +1,7 @@
 /*
 	A standalone Discord.JS music bot based on DarkoPendragon's discord.js-musicbot-addon module.
 	Some parts of this code is taken from his module (v1.5.1 and v1.10.3)
-	Developers: Naz // BluSpring, Damo // CodaEnder
+	Developers: Naz // BluSpring, Damo // CodaEnde
 
 	You are allowed to take any piece of code from here into your own music bot :)
 	You are also allowed to fork this code and edit the code into a module.
